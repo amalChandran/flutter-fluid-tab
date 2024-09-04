@@ -229,14 +229,6 @@ class DentAnimationWidgetState extends State<DentAnimationWidget>
   }
 }
 
-// class FluidCurve extends Curve {
-//   @override
-//   double transform(double t) {
-//     // Custom equation for fluid-like motion
-//     return -math.pow(math.e, -t * 5) * math.cos(t * 10) + 1;
-//   }
-// }
-
 class StifferCurve extends Curve {
   @override
   double transform(double t) {
