@@ -5,7 +5,12 @@
 # Welcome to Day 1 of my 7-Day Flutter Challenge! 🚀
 What's This All About?
 
-https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e
+
+https://github.com/user-attachments/assets/57e99d5b-cb91-4c8b-9207-9b01a17809ae
+
+
+
+[Find more about the 7 day flutter challenge here.](https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e))
 
 Hey there, Flutter enthusiasts! 👋 I've embarked on an exciting journey to create seven unique Flutter projects in seven days. Why? Because learning by doing is awesome, and I want to share this adventure with you!
 # Day 1: Bouncing Ball Tab Animation
