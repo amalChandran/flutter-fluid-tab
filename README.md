@@ -1,4 +1,4 @@
-# 7-Day Flutter Challenge: Bouncing Ball Tab Animation
+# Bouncing Ball Tab Animation
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdob3B6azk3djgybzFrMmtncmY5OTYzbWZtb3duMjM5YXQ0bXJkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tjSKFU9iT81zbWU9F/giphy.gif" alt="Bouncing Ball Tab Animation" width="300">
 </p>
