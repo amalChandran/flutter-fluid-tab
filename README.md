@@ -29,19 +29,12 @@ Go to project folder
 Run flutter pub get
 Run flutter run
 
-# Learn More
-See the detailed tutorial for step-by-step explanation.
-Help Wanted
+# Help Wanted
 
-# Test on different screen sizes
+Test on different screen sizes
 Improve performance
 Add new features
 
-Join the Challenge
-
-Star and fork this repo
-Share with #7DayFlutterChallenge
-Follow for daily updates
 
 Open source under MIT License.
 Happy coding, and may the Flutter be with you! 💙
