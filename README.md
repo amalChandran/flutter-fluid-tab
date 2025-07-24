@@ -3,6 +3,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdob3B6azk3djgybzFrMmtncmY5OTYzbWZtb3duMjM5YXQ0bXJkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tjSKFU9iT81zbWU9F/giphy.gif" alt="Bouncing Ball Tab Animation" width="300">
 </p>
 
+
+[Blog: creating a dynamic tab animation with a bouncing ball](https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e](https://medium.com/flutterfx/flutter-tutorial-creating-a-dynamic-tab-animation-with-a-bouncing-ball-038942ab5f9d))
+
 # Welcome to Day 1 of my 7-Day Flutter Challenge! 🚀
 What's This All About?
 
