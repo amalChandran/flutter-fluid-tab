@@ -4,7 +4,7 @@
 </p>
 
 
-[Blog: creating a dynamic tab animation with a bouncing ball](https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e](https://medium.com/flutterfx/flutter-tutorial-creating-a-dynamic-tab-animation-with-a-bouncing-ball-038942ab5f9d))
+[Blog: creating a dynamic tab animation with a bouncing ball](https://medium.com/flutterfx/flutter-tutorial-creating-a-dynamic-tab-animation-with-a-bouncing-ball-038942ab5f9d)
 
 # Welcome to Day 1 of my 7-Day Flutter Challenge! 🚀
 What's This All About?
